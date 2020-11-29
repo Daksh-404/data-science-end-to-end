@@ -1,6 +1,6 @@
 # Data-science-end-to-end
 
-This repository is a collection of all the algorithms and techniques being which have been developed and implemented since the advent of Machine Learning era. I would like to thank !(Coding Blocks)[https://github.com/coding-blocks] for it's wonderful Data Science course which has helped to construct, add and modify many parts of this repository. I hope whoever is looking for implementation codes for various ML/AI techniques will find this repository helpful and enlightening. Some components of the repository are incomplete and future updates will aim towards a more wholesome and completed form of this collection.
+This repository is a collection of all the algorithms and techniques being which have been developed and implemented since the advent of Machine Learning era. I would like to thank (Coding Blocks)[https://github.com/coding-blocks] for it's wonderful Data Science course which has helped to construct, add and modify many parts of this repository. I hope whoever is looking for implementation codes for various ML/AI techniques will find this repository helpful and enlightening. Some components of the repository are incomplete and future updates will aim towards a more wholesome and completed form of this collection.
 
 ## Topics covered:
 - Basics of Python
@@ -23,4 +23,4 @@ This repository is a collection of all the algorithms and techniques being which
 
 ## References:
 
-- !(Coding Blocks)[https://github.com/coding-blocks]
+- (Coding Blocks)[https://github.com/coding-blocks]
